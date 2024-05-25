@@ -9,7 +9,7 @@
 # snapshot             Install vanilla first
 
 # Ngrok region
-# Code           Place
+# Code           Place1
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
 # au		  Australia (Sydney)
